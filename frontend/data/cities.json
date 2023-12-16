@@ -35,6 +35,90 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Strait of Sicily",
+      "country": "Tunisia",
+      "emoji": "🇹🇳",
+      "date": "2024-07-19T10:58:15.000Z",
+      "notes": "inchl",
+      "position": {
+        "lat": "36.874591401311534",
+        "lng": "11.195476055145264"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Bir el Djir",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-12-16T11:00:52.000Z",
+      "notes": "",
+      "position": {
+        "lat": "35.71529801212532",
+        "lng": "-0.5438232421875001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Strait of Sicily",
+      "country": "Tunisia",
+      "emoji": "🇹🇳",
+      "date": "2023-12-16T11:03:10.426Z",
+      "notes": "",
+      "position": {
+        "lat": "35.50987173838399",
+        "lng": "11.156616210937502"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Kairouan",
+      "country": "Tunisia",
+      "emoji": "🇹🇳",
+      "date": "2023-12-16T11:08:55.783Z",
+      "notes": "",
+      "position": {
+        "lat": "35.679609609368605",
+        "lng": "10.206298828125002"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Bir el Ater",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-12-16T11:09:50.303Z",
+      "notes": "",
+      "position": {
+        "lat": "34.728069689872314",
+        "lng": "8.162841796875002"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Algiers",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-12-16T11:11:26.370Z",
+      "notes": "1,2,3 vive a l'Algerie",
+      "position": {
+        "lat": "36.80048815593687",
+        "lng": "3.158568937215445"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Kasserine",
+      "country": "Tunisia",
+      "emoji": "🇹🇳",
+      "date": "2024-01-10T11:15:04.000Z",
+      "notes": "qdf",
+      "position": {
+        "lat": "35.17976196061974",
+        "lng": "8.963248316088938"
+      },
+      "id": 98443204
     }
   ]
 }
