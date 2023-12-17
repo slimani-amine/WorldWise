@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { useNavigate, useSearchParams } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import styles from "./Map.module.css";
 import {
   MapContainer,
@@ -46,7 +46,7 @@ export default function Map() {
       )}
       <MapContainer
         center={mapPosition}
-        zoom={8}
+        zoom={4}
         scrollWheelZoom={false}
         className={styles.map}
       >
