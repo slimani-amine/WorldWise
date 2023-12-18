@@ -29,7 +29,6 @@ export default function CityItem({ city }) {
         <h3 className={styles.name}> {cityName}</h3>
         <time className={styles.date}>( {formatDate(date)} )</time>
         <button className={styles.deleteBtn} onClick={handleDelete}>
-          {" "}
           &times;
         </button>
       </Link>
